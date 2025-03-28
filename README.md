@@ -53,6 +53,7 @@ SpringBoot-Student-Management/
 ## Running the Application
 1. Clone the repository:
    ```sh
+https://github.com/Apsara2001/E-CommerceDay3.git
 
    ```
 
@@ -110,8 +111,14 @@ SpringBoot-Student-Management/
 ]
 ```
 
+```
 ## Screenshots
-(Add screenshots of your API responses or UI if applicable)
+![1](https://github.com/user-attachments/assets/84881694-8ed0-4972-8b87-d9cdea8bfc90)
+![3](https://github.com/user-attachments/assets/bdf53d75-f2d2-4216-bc6b-4e8c9166c99d)
+![2](https://github.com/user-attachments/assets/27d1b3dd-d95c-4ddb-8877-97abea2f3c5b)
 
----
+```
+
+
+
 
