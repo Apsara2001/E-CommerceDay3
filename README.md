@@ -80,7 +80,7 @@ https://github.com/Apsara2001/E-CommerceDay3.git
 ]
 ```
 
-### 2. Finding a student by regNo (ST1234)
+### 2. Finding a student by regNo
 ```
 {
     "id": 1,
