@@ -116,6 +116,13 @@ https://github.com/Apsara2001/E-CommerceDay3.git
 ![1](https://github.com/user-attachments/assets/84881694-8ed0-4972-8b87-d9cdea8bfc90)
 ![3](https://github.com/user-attachments/assets/bdf53d75-f2d2-4216-bc6b-4e8c9166c99d)
 ![2](https://github.com/user-attachments/assets/27d1b3dd-d95c-4ddb-8877-97abea2f3c5b)
+![4](https://github.com/user-attachments/assets/3ef45c85-6fb1-4f26-b64c-17e4e90ab8a0)
+![5](https://github.com/user-attachments/assets/7aab7f57-eef9-4541-a4bd-2edd84d02cb8)
+![6](https://github.com/user-attachments/assets/49131e3a-9050-4630-a8fc-39093cac5c8b)
+![7](https://github.com/user-attachments/assets/28d7b18c-a857-4ca7-9d51-b1b1f41861cc)
+![8](https://github.com/user-attachments/assets/e4440790-56cc-470a-8fcc-0ffaefeb6d8c)
+![9](https://github.com/user-attachments/assets/4c0b63a2-8afc-4038-aefe-09e05c12eed0)
+
 
 ```
 
