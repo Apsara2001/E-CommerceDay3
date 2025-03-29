@@ -55,7 +55,7 @@ SpringBoot-Student-Management/
    ```sh
 https://github.com/Apsara2001/E-CommerceDay3.git
 
-   ```
+
 
 2. The application will start on `http://localhost:8080`
 
@@ -111,7 +111,7 @@ https://github.com/Apsara2001/E-CommerceDay3.git
 ]
 ```
 
-```
+
 ## Screenshots
 ![1](https://github.com/user-attachments/assets/84881694-8ed0-4972-8b87-d9cdea8bfc90)
 ![3](https://github.com/user-attachments/assets/bdf53d75-f2d2-4216-bc6b-4e8c9166c99d)
